@@ -1,0 +1,1 @@
+A simple graphing calculator written in Python. Currently this program only supports supports slope intercept form (y = mx + b). To use run with python (on linux arm64 systems can run the nuitka binary found in the releases.)
